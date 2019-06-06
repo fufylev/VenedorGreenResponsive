@@ -1,6 +1,5 @@
 .idea
-package.json
 /node_modules/
-app/css/
-built/
-package-lock.json
+/built/
+/package.json
+/package-lock.json

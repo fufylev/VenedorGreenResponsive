@@ -14,8 +14,6 @@ const watch = require('gulp-watch');
 	return run();
 });*/
 
-
-
 gulp.task('sass', function () {
   gulp.src('app/sass/**/*.scss')
     .pipe(concat('style.scss'))
